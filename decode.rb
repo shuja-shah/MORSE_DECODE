@@ -19,3 +19,10 @@ def decode_morse_message(morse_message)
 end
 
 puts decode_morse_message(".- -... -.-. -.. .  .-.. .- --.. -.--  - .... .  .. ...  .-- --- .-. .-.. -..")
+
+# Code from The bottle
+MESSAGE = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...';
+
+puts decode_morse_message(MESSAGE)
+
+# Thank you Microverse for the opportunity to learn and grow as a developer.
