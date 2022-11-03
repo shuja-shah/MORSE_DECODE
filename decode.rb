@@ -6,3 +6,9 @@ end
 
 
 puts decode_morse_char(".-")
+
+def decode_morse_word(morse_word)
+  morse_word.split(" ").map { |morse_char| decode_morse_char(morse_char) }.join
+end
+
+puts decode_morse_word(".- -... -.-. -.. .")
