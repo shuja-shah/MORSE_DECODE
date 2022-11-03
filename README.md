@@ -26,6 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 
+
 ### Usage
 
 - To decode a single Character, use decode_morse_char(str)
