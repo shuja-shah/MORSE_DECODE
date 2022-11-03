@@ -39,13 +39,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Syed Shuja Hussain**
 
 - GitHub: [@shuja-shah](https://github.com/githubhandle)
 - Twitter: [@SyedShujaHussa3](https://twitter.com/twitterhandle)
 - LinkedIn: [@SyedShujaHussa](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Benard Pacho**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
