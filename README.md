@@ -47,9 +47,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Benard Pacho**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@benardop](https://github.com/benardop)
+- Twitter: [@bepacho](https://twitter.com/Bepacho)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/benardpacho/)
 
 ## 🤝 Contributing
 
